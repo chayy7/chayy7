@@ -54,7 +54,7 @@
 
 ---
 
-<!-- Stats with waves -->
+<!-- Stats -->
 ### 📊 GitHub Stats
 
 <!-- Top wave SVG -->
@@ -100,3 +100,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chayy7&label=Profile%20Views&color=blueviolet&style=flat" alt="chayy7" />
 </p>
+
+---
