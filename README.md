@@ -1,6 +1,6 @@
 <!-- Alternative Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=#EF88AD&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Chaitanya;Building+Amazing+Web+Apps+%F0%9F%92%BB;Tech+Enthusiast+and+Learner;Welcome+to+my+GitHub+Space!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=700&color=EF88AD&center=true&vCenter=true&width=500&lines=Hello+World!+I'm+Chaitanya;Building+Amazing+Web+Apps+%F0%9F%92%BB;Tech+Enthusiast+and+Learner;Welcome+to+my+GitHub+Space!!" alt="Typing SVG" />
 </h1>
 
 
