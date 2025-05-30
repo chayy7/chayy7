@@ -1,6 +1,5 @@
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=EF88AD&center=true&vCenter=true&width=450&lines=Crafting+Code+Like+Poetry...;Welcome+to+Chaitanya's+Code+World+🌟;Frontend+Artist+✨💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF88AD&center=true&vCenter=true&width=450&lines=Hello%2C+I'm+Chaitanya+👋;Crafting+Code+Like+Poetry...;Welcome+to+Chaitanya's+Code+World+🌟;Frontend+Artist+✨💻" alt="Typing SVG" />
 </h1>
 
 
