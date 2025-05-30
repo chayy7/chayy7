@@ -73,12 +73,17 @@
   <div style="background: linear-gradient(135deg, #a8dadc, #457b9d); border-radius: 25px; box-shadow: 0 10px 30px rgba(20, 60, 80, 0.3); 
               padding: 24px; position: relative; z-index: 10;">
     
-    <!-- GitHub Stats Cards -->
-    <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&hide_border=true&theme=transparent&bg_color=a8dadc&title_color=1d3557&text_color=457b9d&icon_color=1d3557" 
-         width="48%" style="border-radius: 20px; box-shadow: 0 6px 15px rgba(20, 60, 80, 0.15); margin-right: 4%;" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&hide_border=true&theme=transparent&background=a8dadc&fire=ffb703&currStreakNum=1d3557" 
-         width="48%" style="border-radius: 20px; box-shadow: 0 6px 15px rgba(20, 60, 80, 0.15);" />
+   <!-- GitHub Stats Cards -->
+<p align="center" style="max-width: 860px; margin: auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&hide_border=true&bg_color=%23a8dadc&title_color=%231d3557&text_color=%23457b9d&icon_color=%231d3557" 
+       width="48%" style="border-radius: 20px; box-shadow: 0 6px 15px rgba(20, 60, 80, 0.15);" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&hide_border=true&background=%23a8dadc&fire=%23ffb703&currStreakNum=%231d3557&ring=%23457b9d" 
+       width="48%" style="border-radius: 20px; box-shadow: 0 6px 15px rgba(20, 60, 80, 0.15);" />
+
+</p>
+
   </div>
 
   <!-- Bottom Wave -->
