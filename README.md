@@ -1,105 +1,87 @@
-<!-- 🌟 HEADER -->
-<h1 align="center" style="color:#B621FE;">Hey, I'm Chaitanya Reddy 👨‍💻</h1>
-<h3 align="center">🚀 Developer | 💡 Innovator | 🧠 Creator of <code>CScript+</code></h3>
+<!-- Greeting -->
+<h1 align="center">Hi there, I'm <span style="color:#FF6F61">Chaitanya Reddy</span> 👋</h1>
+<h3 align="center">🚀 Frontend Developer | ⚙️ Backend Explorer | 🧠 Programming Language Creator (CScript+)</h3>
 
+---
+
+<!-- Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+CScript%2B+Language+and+IDE;Frontend+Lover;Backend+Explorer;Making+Tech+Fun+✨&font=Fira%20Code&center=true&width=500&height=45&color=B621FE&vCenter=true" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Loves-Coding%20💻-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20Chaitanya-critical?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 🎯 PROFILE BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20with-Chaitanya-B621FE?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CScript%2B-In%20Progress-B621FE?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-B621FE?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
-</p>
+<!-- About Section -->
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently building **CScript+**, a custom programming language 💡  
+- 🌱 I’m diving into **Backend Development & Compilers**
+- 🎯 Passionate about creating **visually appealing UIs** and **smart systems**
+- 💬 Ask me about `HTML`, `CSS`, `JavaScript`, `Python`, `React`, `SQL`
+- ⚡ Fun Fact: I write code like I tell jokes — sometimes it works 😄
 
 ---
 
-<!-- 👨‍💻 ABOUT -->
-### 👨‍🚀 About Me
-
-```txt
-🔧 Full-stack Dev | 🎨 UI Enthusiast | 🧑‍🏫 Leader at GFG VIIT
-🚀 Currently crafting CScript+ (Programming Language + IDE)
-🎓 2nd Year BTech @ VIIT
-```
-
-- 💻 Love blending **logic** with **design**
-- 🌐 Building apps with **React**, **Tailwind**, **Python**, and **JS**
-- 📚 Learning: Compilers, System Design, AI
-- 🎯 Mission: Make development look as good as it feels!
-
----
-
-<!-- 🔗 LINKS -->
-### 🌐 Connect With Me
+<!-- Socials -->
+### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/chaitanyareddy" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-B621FE?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/__chayyyy___7" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-B621FE?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/chayy7" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-B621FE?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/chaayy7" target="_blank">
-    <img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-B621FE?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/chaitanyareddy" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/__chayyyy___7" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/chaayy7" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-%2395819C.svg?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://leetcode.com/chayy7" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/chayy7" target="_blank"><img alt="GFG" src="https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=black"/></a>
 </p>
 
 ---
 
-<!-- 💻 TECH STACK -->
-### 🛠️ Tech Stack
+<!-- Tech Stack -->
+### 🛠️ Languages and Tools
 
-<p>
-  <img src="https://img.shields.io/badge/C++-B621FE?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-B621FE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-B621FE?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-B621FE?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-B621FE?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-B621FE?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-B621FE?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-B621FE?style=for-the-badge&logo=mysql&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-<!-- 💡 FEATURED PROJECT -->
-### 🧪 Featured Project: CScript+
-
-💻 **CScript+** is a beginner-friendly, stylish programming language designed and interpreted by me.
-
-```txt
-🌐 Web-based Monaco IDE | 🎨 Clean UI | ⚙️ Python Interpreter Backend
-✅ Features: print, input, if-else, loops, switch, functions and more
-```
-
-<p align="center">
-  🚀 <b>Live IDE Demo Coming Soon</b> — stay tuned!
-</p>
-
----
-
-<!-- 📈 STATS -->
+<!-- Stats -->
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chayy7&theme=highcontrast&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&theme=radical&hide_border=true" width="49%" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&theme=radical" width="40%" />
 </p>
 
 ---
 
-<!-- 👣 FOOTER -->
+<!-- CScript+ Feature -->
+### 🧪 Featured Work: CScript+
+
+🚧 CScript+ is my custom-designed programming language with its own:
+- Custom **syntax and compiler**
+- Web-based **IDE** using Monaco Editor
+- Support for: `print`, `if`, `elif`, `else`, `for`, `while`, `switch`, `functions`, and more!
+
+👉 Wanna check it out? [Coming Soon — Stay Tuned! 🚀]
+
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chayy7&label=Profile+Views&color=B621FE&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=chayy7&label=Profile%20Views&color=blueviolet&style=flat" alt="chayy7" />
 </p>
+
+---
