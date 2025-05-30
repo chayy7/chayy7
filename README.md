@@ -1,7 +1,7 @@
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaitanya+Reddy!;Frontend+Developer+%F0%9F%92%BB;Lover+of+Beautiful+UI+%F0%9F%8C%B8;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=600&center=true&vCenter=true&width=480&lines=%3Cspan+style='color:%233A0519'%3ECrafting+Code+Like+Poetry...%3C%2Fspan%3E;%3Cspan+style='color:%23670D2F'%3EChaitanya's+Creative+Corner%3C%2Fspan%3E;%3Cspan+style='color:%23A53860'%3EFrontend+Wizardry+%E2%9C%A8%3C%2Fspan%3E;%3Cspan+style='color:%23EF88AD'%3EJoin+the+Journey+%F0%9F%9A%80%3C%2Fspan%3E" alt="Typing SVG" />
 </h1>
+
 
 
 
