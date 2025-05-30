@@ -57,12 +57,14 @@
 <!-- Stats -->
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&theme=tokyonight" width="40%" />
+<div align="center" style="background: linear-gradient(135deg, #7F00FF, #E100FF); padding: 15px; border-radius: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&hide_border=true&theme=transparent" width="49%" style="background: transparent; border-radius: 15px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&hide_border=true&theme=transparent" width="49%" style="background: transparent; border-radius: 15px;" />
+</div>
+<p align="center" style="margin-top:10px;">
+  <div style="background: linear-gradient(135deg, #FF8C00, #FFD700); padding: 10px 20px; display: inline-block; border-radius: 15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&hide_border=true&theme=transparent" width="40%" style="background: transparent; border-radius: 15px;" />
+  </div>
 </p>
 
 ---
