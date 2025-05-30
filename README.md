@@ -4,7 +4,6 @@
 </h1>
 
 <!-- Greeting -->
-<h1 align="center" style="color:#EF88AD;">Hi there, I'm <span style="color:#A53860;">Chaitanya Reddy</span> 👋</h1>
 <h3 align="center" style="color:#EF88AD;">🚀 Frontend Developer | ⚙️ Backend Explorer | 🧠 Programming Language Creator (CScript+)</h3>
 
 ---
