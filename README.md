@@ -1,7 +1,8 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=EF88AD&center=true&vCenter=true&width=500&lines=Crafting+Code+Like+Poetry...;Welcome+to+Chaitanya+Reddy's+World+of+Code+%F0%9F%8C%9F;Frontend+Artist+%E2%9C%A8;CScript%2B+Creator+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=EF88AD&center=true&vCenter=true&width=450&lines=Crafting+Code+Like+Poetry...;Welcome+to+Chaitanya's+Code+World+🌟;Frontend+Artist+✨💻" alt="Typing SVG" />
 </h1>
+
 
 <!-- Greeting -->
 <h3 align="center" style="color:#EF88AD;">🚀 Frontend Developer | ⚙️ Backend Explorer | 🧠 Programming Language Creator (CScript+)</h3>
@@ -55,18 +56,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&hide_border=true&title_color=A53860&text_color=EF88AD&bg_color=3A0519&icon_color=EF88AD" width="49%" style="border-radius: 12px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&hide_border=true&currStreakNum=EF88AD&sideNums=A53860&background=3A0519&fire=A53860&ring=EF88AD&sideLabels=A53860" width="49%" style="border-radius: 12px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&title_color=A53860&text_color=EF88AD&bg_color=3A0519" width="40%" />
-</p>
-
----
 
 ### 🧪 Featured Work: CScript+
 
@@ -79,10 +68,6 @@
 
 ---
 
-### 🌸 Quotes I Live By
-
-> 🌸 *“Code is like art, and I love painting with pixels!”* 🎨  
-> Made with ❤️ by **Monalisa Biswal**
 
 > ✨ *“Creativity is intelligence having fun – and I express it through code.”*  
 > Passionately crafted by **Chaitanya Reddy**
