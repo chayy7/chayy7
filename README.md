@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=EF88AD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Monalisa+Biswal!;Frontend+Developer+%F0%9F%92%BB;Lover+of+Beautiful+UI+%F0%9F%8C%B8;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=EF88AD&center=true&vCenter=true&width=500&lines=Crafting+Code+Like+Poetry...;Welcome+to+Chaitanya+Reddy's+World+of+Code+%F0%9F%8C%9F;Frontend+Artist+%E2%9C%A8;CScript%2B+Creator+%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <!-- Greeting -->
@@ -77,6 +77,16 @@
 - Support for: `print`, `if`, `elif`, `else`, `for`, `while`, `switch`, `functions`, and more!
 
 👉 Wanna check it out? [Coming Soon — Stay Tuned! 🚀]
+
+---
+
+### 🌸 Quotes I Live By
+
+> 🌸 *“Code is like art, and I love painting with pixels!”* 🎨  
+> Made with ❤️ by **Monalisa Biswal**
+
+> ✨ *“Creativity is intelligence having fun – and I express it through code.”*  
+> Passionately crafted by **Chaitanya Reddy**
 
 ---
 
