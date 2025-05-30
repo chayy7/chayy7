@@ -58,11 +58,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chayy7&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chayy7&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chayy7&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
