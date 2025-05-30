@@ -14,6 +14,9 @@
 
 ---
 
+
+### 🧑‍💻 About Me
+
 - 🔭 I’m currently building **CScript+**, a custom programming language 💡  
 - 🌱 I’m diving into **Backend Development & Compilers**
 - 🎯 Passionate about creating **visually appealing UIs** and **smart systems**
@@ -21,6 +24,8 @@
 - ⚡ Fun Fact: I write code like I tell jokes — sometimes it works 😄
 
 ---
+
+### 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/chaitanyareddy" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-3A0519?style=for-the-badge&logo=linkedin&logoColor=EF88AD"/></a>
@@ -31,6 +36,9 @@
 </p>
 
 ---
+
+
+### 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-670D2F?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -45,6 +53,9 @@
 </p>
 
 ---
+
+
+### 🧪 Featured Work: CScript+
 
 🚧 CScript+ is my custom-designed programming language with its own:
 - Custom **syntax and compiler**
